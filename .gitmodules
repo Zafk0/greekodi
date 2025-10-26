@@ -1,0 +1,3 @@
+[submodule "greekodi"]
+	path = greekodi
+	url = https://github.com/Zafk0/greekodi
