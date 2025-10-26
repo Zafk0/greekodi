@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="repository.zafk0.greekodi" name="greekodi" version="1.0" provider-name="Zafk0">
+<addon id="repo.greekodi" name="greekodi" version="1.0" provider-name="Zafk0">
     <extension point="xbmc.addon.repository" name="Example Repository">
         <dir>
             <info compressed="false">https://raw.githubusercontent.com/Zafk0/greekodi/master/repo/zips/addons.xml</info>
